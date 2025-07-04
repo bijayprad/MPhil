@@ -1,0 +1,14 @@
+# Confirmatory Factor Analysis"
+Hotel=read.csv()
+install.packages("lavan")
+library(lavaan)
+install.packages("semTools")
+library(semTools)
+model <- '
+  Factor1 =~ V1 + V2 + V3 + V4 + V5
+  Factor2 =~ V6 + V7 + V8 + V9 + V10
+  Factor3 =~ V11 + V12 + V13 + V14 + V15
+fit <- cfa(model, data = data111)
+reliability(fit)
+compRelSEM(fit)
+AVE(fit)
