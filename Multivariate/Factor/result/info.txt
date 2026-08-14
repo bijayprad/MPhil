@@ -1,0 +1,7 @@
+Variable		Type			Description
+Student_ID		ID			Student identification
+Attendance_pct		Predictor		Attendance percentage
+Internal_Marks		Predictor		Internal examination marks
+Assignment_Marks	Predictor		Assignment marks
+Study_Hours_per_Week	Predictor		Average weekly study hours
+Result			Grouping variable	Pass / Fail
