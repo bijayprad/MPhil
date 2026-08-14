@@ -1,0 +1,15 @@
+Q1	Teachers explain concepts clearly.
+Q2	The library has adequate books and materials.
+Q3	Administrative staff respond quickly to students.
+Q4	Teachers provide useful feedback.
+Q5	Computer facilities are adequate.
+Q6	Students receive adequate academic advising.
+Q7	Teachers are well prepared for classes.
+Q8	Online learning resources are easily available.
+Q9	Administrative procedures are convenient.
+Q10	Teachers encourage students to participate.
+Q11	The library provides a comfortable study environment.
+Q12	Academic support is easily accessible.
+Q13	Teachers use appropriate teaching methods.
+Q14	Internet facilities are adequate for academic work.
+Q15	The university responds effectively to student concerns.
